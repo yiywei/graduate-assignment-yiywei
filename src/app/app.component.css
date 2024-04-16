@@ -1,0 +1,54 @@
+/*
+=============
+Stylesheets
+=============
+*/
+
+/* Header */
+h1{
+  background-color: #852d7e;
+  color: white;
+  font-size: 40px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding: 50px;
+  text-align: center;
+}
+
+h2{
+  font-size: 20px;
+  margin-top: 20px;
+  margin-bottom: 0px;
+  text-align: center;
+}
+
+h3{
+  font-size: 18px;
+  margin-top: 10px;
+  text-align: center;
+
+}
+
+/* Container */
+.container {
+  display: flex;
+  justify-content: space-around;
+}
+
+/* Photo */
+.photo1 {
+  text-align: center;
+  padding: 5px;
+  font-size: 12px;
+}
+
+.photo2 {
+  text-align: center;
+  padding: 5px;
+  font-size: 12px;
+}
+.image {
+  margin-left: 20px;
+  width:600px;
+  height:390px;
+}
